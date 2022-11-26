@@ -1,5 +1,7 @@
 Universidade Estácio de Sá
+
 Curso: Desenvolvimento Full Stack
+
 Mundo 1 — Nivel 5: COLOCANDO TUDO EM ORDEM E GUARDANDO
 
 Semestre Letivo: 2022.3
@@ -9,6 +11,7 @@ Aluno: Lucas Silva Costa
 Matrícula: 202208379801
 
 Missão Prática Nível 5
+
 Implementação de um programa para manipular Gados de um arquivo texto e visualizá-los em um histograma e nuvem de palavras.
 
 Objetivos
